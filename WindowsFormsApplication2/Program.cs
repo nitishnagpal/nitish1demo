@@ -9,6 +9,7 @@ namespace WindowsFormsApplication2
     {
         /// <summary>
         /// The main entry point for the application.
+        /// testing comment
         /// </summary>
         [STAThread]
         static void Main()
