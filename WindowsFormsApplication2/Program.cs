@@ -23,6 +23,7 @@ namespace WindowsFormsApplication2
             //test for remote
             //test2 for remotefdfdfd
             //this changes is for version 2.0.0.1
+            //direct publish
         }
     }
 }
