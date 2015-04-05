@@ -19,6 +19,7 @@ namespace WindowsFormsApplication2
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //v2.0
+            //v2.0.1
         }
     }
 }
