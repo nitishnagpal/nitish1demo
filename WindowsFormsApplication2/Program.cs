@@ -20,6 +20,7 @@ namespace WindowsFormsApplication2
             Application.Run(new Form1());
             //v2.0
             //v2.0.1
+            //test for remote
         }
     }
 }
